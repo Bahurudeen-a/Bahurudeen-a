@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me via my email-id "bahurudeenabbas28@gmail.com"
 
 <!---
 Bahurudeen-a/Bahurudeen-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
